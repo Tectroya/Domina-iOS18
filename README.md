@@ -41,4 +41,5 @@ Para poder visualizar, editar y ejecutar el código de este repositorio sin prob
 
 1. Clona el repositorio en tu máquina local usando la terminal:
    ```bash
-   git clone [https://github.com/Tectroya/Domina-iOS18.git](https://github.com/Tectroya/Domina-iOS18.git)
+   https://github.com/Tectroya/Domina-iOS18.git
+   ```
